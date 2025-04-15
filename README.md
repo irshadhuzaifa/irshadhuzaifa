@@ -54,11 +54,6 @@
   - Focus: Software Development, Artificial Intelligence, Databases  
   - Relevant Courses: Data Structures & Algorithms, AI & Machine Learning  
 
-- 🎓 **BS Physics**  
-  📍 *COMSATS University, Pakistan* *(2018 – 2022)*  
-  - Specialized in Computational Physics and Numerical Methods  
-  - Applied programming in MATLAB, Python, and C++ for simulations  
-
 - 🎓 **Cambridge O/A Levels**  
   📍 *Beaconhouse School System* *(2012 – 2017)*  
   - Strong foundation in Mathematics, Physics, and Computer Science  
