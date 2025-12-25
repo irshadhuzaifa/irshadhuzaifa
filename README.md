@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Huzaifa Irshad</h1>
-<h3 align="center">Python Developer | Web Engineer | AI Researcher | Technical Writer</h3>
+<h3 align="center">Python Developer | Backend Engineer | AI Researcher | Technical Writer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irshadhuzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
-🔭 Currently working as a **Python Developer & AI Researcher**  
-🌐 Delivering production-grade software across **Web, AI, Data Engineering, and Automation**  
+🔭 Currently working as a **Python Developer & Backend Engineer**  
+🌐 Delivering production-grade software across **Web, AI, and Automation**  
 📚 Contributing to open-source, writing technical blogs, and building SaaS platforms  
 ⚡ Fun fact: I believe in solving real-world problems, not just writing code  
 
