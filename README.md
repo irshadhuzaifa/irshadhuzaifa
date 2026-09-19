@@ -148,11 +148,12 @@ I regularly write about software engineering, backend architecture, and artifici
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irshadhuzaifa&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshadhuzaifa&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=irshadhuzaifa&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irshadhuzaifa&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
+
 
 ---
 
