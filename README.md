@@ -19,10 +19,6 @@ I help startups, SaaS teams, and growing businesses build reliable Python-based 
 * 🔐 **PKI, Certificate Authority & Certificate Lifecycle Management**
 * 🛡️ **Cryptography & Post-Quantum Cryptography**
 * 🤖 **AI-Powered Applications & Automation**
-* 🗄️ **Database Design & Backend Architecture**
-* 🌐 **Full-Stack Web Development**
-* 🔗 **API Integrations & Business Workflows**
-* ☁️ **Docker, Linux & Production Deployment**
 
 ### 🧠 My Development Approach
 > *"Understand the product goal, design the system structure carefully, write clean code, test the important flows, and deliver something that can be maintained after handoff."*
